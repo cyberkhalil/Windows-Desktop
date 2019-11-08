@@ -2,7 +2,7 @@
 iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 # main things and utilities
-choco install 7zip ccleaner choco-cleaner winrar python3 lightshot firefox chocolatey-windowsupdate.extension Everything fluent-terminal fscapture netcat notepadplusplus Opera PowerShell teamviewer
+choco install 7zip ccleaner choco-cleaner winrar lightshot firefox chocolatey-windowsupdate.extension Everything fluent-terminal fscapture netcat notepadplusplus Opera PowerShell teamviewer
 
 # Analysis & Debug tools
 # choco install Strings dependencywalker fakenet hashdeep ida-free ollydbg procexp RegShot reshack upx x64dbg
