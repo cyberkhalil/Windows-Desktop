@@ -5,7 +5,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 choco install 7zip ccleaner choco-cleaner winrar lightshot firefox chocolatey-windowsupdate.extension Everything fscapture notepadplusplus PowerShell -y
 
 # Utilities
-choco install teamviewer Opera fluent-terminal netcat vlc -y
+choco install teamviewer Opera fluent-terminal netcat vlc eagleget -y
 
 # Documents stuff
 #choco install foxitreader -y
