@@ -2,7 +2,10 @@
 iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 # Main things
-choco install 7zip ccleaner choco-cleaner winrar lightshot firefox chocolatey-windowsupdate.extension Everything fscapture notepadplusplus PowerShell -y
+choco install 7zip ccleaner choco-cleaner winrar lightshot firefox Everything fscapture notepadplusplus -y
+
+# Windows stuff
+choco install chocolatey-windowsupdate.extension PowerShell -y
 
 # Utilities
 choco install teamviewer Opera fluent-terminal netcat vlc eagleget -y
