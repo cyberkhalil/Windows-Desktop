@@ -14,7 +14,7 @@ choco install teamviewer Opera fluent-terminal netcat vlc eagleget -y
 #choco install foxitreader -y
 
 # Analysis & Debug tools
-# choco install Strings dependencywalker fakenet hashdeep ida-free ollydbg procexp procmon RegShot reshack upx x64dbg -y
+# choco install Strings dependencywalker fakenet hashdeep ida-free ollydbg procexp procmon RegShot reshack upx x64dbg.portable -y
 
 # Windows Administration
 # choco install rsat sysinternals -y
