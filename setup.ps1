@@ -4,6 +4,9 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 # Main things
 choco install 7zip ccleaner choco-cleaner winrar lightshot firefox Everything fscapture notepadplusplus -y
 
+# install choco stuff
+choco install chocolateygui -y
+
 # Windows stuff
 choco install chocolatey-windowsupdate.extension PowerShell -y
 
