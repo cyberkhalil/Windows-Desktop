@@ -26,7 +26,7 @@ choco install teamviewer Opera fluent-terminal netcat vlc eagleget -y
 # choco install git dotnetfx visualstudio2019community postman visualstudio-installer -y
 
 # Java Development
-# choco install jdk8 git intellijidea-community netbeans -y
+# choco install jdk8  git intellijidea-community netbeans scenebuilder8 -y
 
 # Python Development
 # choco install python python3 -y
